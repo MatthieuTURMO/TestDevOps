@@ -1,0 +1,23 @@
+{
+  "name": "testdevops",
+  "version": "1.0.0",
+  "description": "Test pour projet de DevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test OK\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthieuTURMO/TestDevOps.git"
+  },
+  "keywords": [
+    "devops",
+    "test"
+  ],
+  "author": "Turmo Matthieu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthieuTURMO/TestDevOps/issues"
+  },
+  "homepage": "https://github.com/MatthieuTURMO/TestDevOps#readme"
+}
